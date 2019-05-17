@@ -46,23 +46,21 @@ T-SNE is used to project the high-dimension embedding to 2-dimension vector for 
 
 **20 apps**
 ![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/20apps.png)
-####<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/20apps.png" ><div>
-
 
 **30 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/30apps.png" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/30apps.png)
     
 **50 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/50apps.png" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/50apps.png)
     
 **100 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/100apps.png" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/100apps.png)
     
 **150 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/150apps.png" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/150apps.png)
     
 **200 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/200apps.png" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/200apps.png)
 
 
 
