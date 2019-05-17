@@ -99,6 +99,7 @@ We build a vector space of GUI designs by converting all GUI in the training set
 *   **[`P1 GUI searching result`](https://drive.google.com/open?id=1b4nHoHqwRzkylHM0OzBvZlCOUJ9m9ayb)**
 
 | P2      | pre(k1) | pre(k2) | pre(k3) | pre(k4) | pre(k5) | pre(k6) | pre(k7) | pre(k8) | pre(k9) | pre(k10) | map     |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------  |
 | Hog     | 0.3     | 0.25    | 0.23    | 0.2     | 0.18    | 0.15    | 0.17    | 0.19    | 0.19    | 0.19     | 0.162   |
 | Gabor   | 0.1     | 0.1     | 0.13    | 0.13    | 0.1     | 0.1     | 0.09    | 0.8     | 0.07    | 0.06     | 0.093   |
 | AE      | 0.2     | 0.3     | 0.27    | 0.28    | 0.22    | 0.23    | 0.23    | 0.24    | 0.22    | 0.22     | 0.158   |
@@ -107,6 +108,7 @@ We build a vector space of GUI designs by converting all GUI in the training set
 *   **[`P2 GUI searching result`](https://drive.google.com/open?id=1M_4kLkrOeJw1UViAANwQ2E4gHmtTAKNF)**
 
 | mean    | pre(k1) | pre(k2) | pre(k3) | pre(k4) | pre(k5) | pre(k6) | pre(k7) | pre(k8) | pre(k9) | pre(k10) | map     |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------  |
 | Hog     | 0.55    | 0.5     | 0.45    | 31.6    | 0.38    | 0.35    | 0.35    | 0.35    | 0.34    | 0.34     | 0.359   |
 | Gabor   | 0.2     | 0.25    | 0.265   | 0.24    | 0.21    | 0.19    | 0.18    | 0.525   | 0.155   | 0.15     | 0.2285  |
 | AE      | 0.5     | 0.575   | 0.485   | 0.49    | 0.45    | 0.455   | 0.43    | 0.425   | 0.405   | 0.405    | 0.254   |
