@@ -45,7 +45,8 @@ T-SNE is used to project the high-dimension embedding to 2-dimension vector for 
 
 
 **20 apps**
-<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/20apps.png" alt="20 apps" ><div>
+![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/20apps.png)
+###<div><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/20apps.png" ><div>
 
 
 **30 apps**
