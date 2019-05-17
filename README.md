@@ -87,25 +87,30 @@ GUI2Vec | **0.397**| **0.474**| **0.432**| **0.264** | **0.315**
 
 We build a vector space of GUI designs by converting all GUI in the training set into the vectors. Then We randomly select 10 GUIs from 10 apps from our testing dataset, and convert them into vector by our trained model as the queries. For each query, we retrieve the top 10 GUIs whose vectors are most closed to that of query GUI.
 
+*   **[`Download the GUI images of GUI searching`](https://drive.google.com/open?id=1MQSWLb5UhAvP6woD-pL9xZr32VYnW8Ut)**
+
+
 | P1      | pre(k1) | pre(k2) | pre(k3) | pre(k4) | pre(k5) | pre(k6) | pre(k7) | pre(k8) | pre(k9) | pre(k10) | map    |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------ |
 | Hog     | 0.8     | 0.75    | 0.67    | 63      | 0.58    | 0.55    | 0.53    | 0.51    | 0.49    | 0.49     | 0.556  |
 | Gabor   | 0.3     | 0.4     | 0.4     | 0.35    | 0.32    | 0.28    | 0.27    | 0.25    | 0.24    | 0.24     | 0.364  |
 | AE      | 0.8     | 0.85    | 0.7     | 0.7     | 0.68    | 0.68    | 0.63    | 0.61    | 0.59    | 0.59     | 0.35   |
-| GUI2Vec | 0.9     | 0.9     | 0.87    | 0.85    | 0.76    | 0.77    | 0.8     | 0.78    | 0.77    | 0.76     | 0.588  |
-|         |         |         |         |         |         |         |         |         |         |          |        |
-| P2      |         |         |         |         |         |         |         |         |         |          |        |
+| GUI2Vec |**0.9**  |**0.9**  |**0.87** |**0.85** |**0.76** |**0.77** |**0.8**  |**0.78** |**0.77** |**0.76**  |**0.588**|
+*   **[`P1 GUI searching result`](https://drive.google.com/open?id=1b4nHoHqwRzkylHM0OzBvZlCOUJ9m9ayb)**
+
+| P2      | pre(k1) | pre(k2) | pre(k3) | pre(k4) | pre(k5) | pre(k6) | pre(k7) | pre(k8) | pre(k9) | pre(k10) | map    |
 | Hog     | 0.3     | 0.25    | 0.23    | 0.2     | 0.18    | 0.15    | 0.17    | 0.19    | 0.19    | 0.19     | 0.162  |
 | Gabor   | 0.1     | 0.1     | 0.13    | 0.13    | 0.1     | 0.1     | 0.09    | 0.8     | 0.07    | 0.06     | 0.093  |
 | AE      | 0.2     | 0.3     | 0.27    | 0.28    | 0.22    | 0.23    | 0.23    | 0.24    | 0.22    | 0.22     | 0.158  |
-| GUI2Vec | 0.8     | 0.9     | 0.83    | 0.85    | 0.86    | 0.85    | 0.83    | 0.83    | 0.79    | 0.8      | 0.234  |
-|         |         |         |         |         |         |         |         |         |         |          |        |
-| mean    |         |         |         |         |         |         |         |         |         |          |        |
+| GUI2Vec |**0.8**  |**0.9**  |**0.83** |**0.85** |**0.86** |**0.85** |**0.83** |**0.83** |**0.79** |**0.8**   |**0.234**|
+*   **[`P2 GUI searching result`](https://drive.google.com/open?id=1M_4kLkrOeJw1UViAANwQ2E4gHmtTAKNF)**
+
+| mean    | pre(k1) | pre(k2) | pre(k3) | pre(k4) | pre(k5) | pre(k6) | pre(k7) | pre(k8) | pre(k9) | pre(k10) | map    |
 | Hog     | 0.55    | 0.5     | 0.45    | 31.6    | 0.38    | 0.35    | 0.35    | 0.35    | 0.34    | 0.34     | 0.359  |
 | Gabor   | 0.2     | 0.25    | 0.265   | 0.24    | 0.21    | 0.19    | 0.18    | 0.525   | 0.155   | 0.15     | 0.2285 |
 | AE      | 0.5     | 0.575   | 0.485   | 0.49    | 0.45    | 0.455   | 0.43    | 0.425   | 0.405   | 0.405    | 0.254  |
-| GUI2Vec | 0.85    | 0.9     | 0.85    | 0.85    | 0.81    | 0.81    | 0.815   | 0.805   | 0.78    | 0.78     | 0.411  |
-
+| GUI2Vec |**0.85** |**0.9**  |**0.85** |**0.85** |**0.81** |**0.81** |**0.815**|**0.805**|**0.78** |**0.78**  |**0.411**|
+*   **[`Download more experiment results of GUI searching`](https://drive.google.com/open?id=19sKgojM3KTAxZSq0YJMS6YxzO7arUquy)**
 
 ## GUI_Style_Consistency_Detection
 
