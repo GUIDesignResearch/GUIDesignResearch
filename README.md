@@ -19,7 +19,7 @@ We randomly sample 384 pairs of GUIs for manual evaluation, and half of them are
 P1         | :------: | same   |differ|total
 selection  | same     | 181    |12    |193  
 selection  | differ   | 11     |180   |191  
-           | total    | 192    |192   |384  
+---------- | total    | 192    |192   |384  
 
 ## GUI2Vec Search_TSNE
 
