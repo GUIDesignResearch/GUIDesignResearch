@@ -22,12 +22,16 @@ P1           | --       | App    |App   |--
 **Selection**| differ   | 11     |180   |191  
 --           | total    | 192    |192   |384  
 
+P1_o = 0.94, P1_e = 0.5, Kappa rate1 = 0.88
+
 P2           | --       | App    |App   |--
 ----------   | :------: | :----: |:----:|:---:
 --           | --       | same   |differ|total
 **Selection**| same     | 162    |16    |178  
 **Selection**| differ   | 30     |176   |206  
 --           | total    | 192    |192   |384  
+
+P2_o = 0.88, P2_e = 0.5, Kappa rate2 = 0.76
 
 ## GUI2Vec Search_TSNE
 
