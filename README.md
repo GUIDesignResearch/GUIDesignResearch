@@ -13,6 +13,7 @@ Download: https://drive.google.com/drive/folders/1pNXUYAVOBiRDeix2x2Pc_dMhXfr-fr
 
 A pilot study to manually check the assumption for the GUI design style:
 
+We randomly sample 384 pairs of GUIs for manual evaluation, and half of them are from the inter apps, while the other half come from intra apps. Two Master students P1 and P2 are asked to individually check if each pair of GUI is sharing the very similar design style or not and they are not told if the pair of GUIs comes from the same app or not. The results show that 89.32% GUI pairs from the same app are regarded as sharing the similar design format, and 92.71% GUI pairs from different apps are regarded as possessing different design styles. The Cohen’s Kappa metric among annotator’s decisions is 82.03% 
 
 
 ## GUI2Vec Search_TSNE
