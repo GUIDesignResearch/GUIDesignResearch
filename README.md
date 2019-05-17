@@ -59,13 +59,6 @@ T-SNE is used to project the high-dimension embedding to 2-dimension vector for 
     
 **100 apps**
 ![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/100apps.png)
-    
-**150 apps**
-![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/150apps.png)
-    
-**200 apps**
-![Alt text](https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/III.B.2.GUI_Search_TSNE/200apps.png)
-
 
 
 ## Clustering Overall Performance
