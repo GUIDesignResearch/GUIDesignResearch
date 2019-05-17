@@ -68,6 +68,14 @@ T-SNE is used to project the high-dimension embedding to 2-dimension vector for 
 
 To check the quality of GUI embedding with 5 metrics(Homogeneity, Completeness, V-measure, Adjusted Rand Index, and Adjusted Mutual Information), we randomly select apps with the number ranging from 10 to 100. 
 
+10apps  |    HOM   |    COM   |   V-M    |    ARI    |    AMI  
+------- | :------: | :------: | :------: | :------:  | :------:
+Sift    | 0.196    | 0.376    | 0.257    | 0.096     | 0.129
+Hog     | 0.237    | 0.302    | 0.266    | 0.099     | 0.147
+Gabor   | 0.229    | 0.331    | 0.27     | 0.099     | 0.158
+AE      | 0.263    | 0.319    | 0.288    | 0.149     | 0.174
+GUI2Vec | **0.397**| **0.474**| **0.432**| **0.264** | **0.315**
+
 ## GUIsearch_results
 
 
@@ -75,11 +83,3 @@ To check the quality of GUI embedding with 5 metrics(Homogeneity, Completeness, 
 ## GUI_Style_Consistency_Detection
 
 
-
-
-SQuAD v1.1 Leaderboard (Oct 8th 2018) | Test EM  | Test F1
-------------------------------------- | :------: | :------:
-1st Place Ensemble - BERT             | **87.4** | **93.2**
-2nd Place Ensemble - nlnet            | 86.0     | 91.7
-1st Place Single Model - BERT         | **85.1** | **91.8**
-2nd Place Single Model - nlnet        | 83.5     | 90.1
