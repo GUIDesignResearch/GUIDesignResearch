@@ -118,4 +118,16 @@ We build a vector space of GUI designs by converting all GUI in the training set
 
 ## GUI_Style_Consistency_Detection
 
+We randomly select 10 apps from 8 categories. For each of the app, we individually check which GUIs are outliers with different design style from the whole app. Thus, we construct a ground truth dataset of GUI style inconsistency, and we evaluate the performance of different methods with this ground truth. 
+
+| Algorithm | Precision   | Recall      |
+| --------- | ----------- | ----------- |
+| Hog       | 0.288135593 | 0.708333333 |
+| Gabor     | 0.575757576 | 0.791666667 |
+| AE        | 0.642857143 | 0.75        |
+| GUI2Vec   | 0.913043478 | 0.875       |
+
+*   **[`Download more experiment results of GUI Style Consistency Detection`](https://drive.google.com/open?id=1CB5-al7ox12Nh0DSCgQLtATRN3LtiiO4)**
+
+
 
