@@ -43,7 +43,7 @@ P2_o = 0.88, P2_e = 0.5, Kappa rate2 = 0.76
 
 T-SNE is used to project the high-dimension embedding to 2-dimension vector for visualization. We visualize the embedding of random design images which are from 20, 30, 50, 100, 150, and 200 apps.
 
-<div align=center><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/III.B.2.GUI_Search_TSNE/blob/master/20apps.png" width="450" height="450" ><div>
+<div align=center><img src="https://github.com/GUIDesignResearch/GUIDesignResearch/blob/master/20apps.png" width="450" height="450"><div>
 
 
 
