@@ -41,7 +41,7 @@ P2           | --       | App    |App   |--
 P2_o = 0.88, P2_e = 0.5, Kappa rate2 = 0.76
 **[`P2 file`](https://drive.google.com/open?id=1P3BghWyHmqw4sVDqoE8Kan2XyUMXcyMW)**
 
-**[`Download the file`](https://drive.google.com/open?id=1zUfKUkhRJxQwrRB_VI6WUURwY1kTsS7q)**
+*   **[`Download the file`](https://drive.google.com/open?id=1zUfKUkhRJxQwrRB_VI6WUURwY1kTsS7q)**
 
 ## GUI2Vec Search_TSNE
 
@@ -80,10 +80,13 @@ Gabor   | 0.229    | 0.331    | 0.27     | 0.099     | 0.158
 AE      | 0.263    | 0.319    | 0.288    | 0.149     | 0.174
 GUI2Vec | **0.397**| **0.474**| **0.432**| **0.264** | **0.315**
 
-**[`Download more experiment results`](https://drive.google.com/open?id=1BM9o5wtju2v6-DuuhGHL8YFKJleCFq5c)**
+*   **[`Download more experiment results of clustering`](https://drive.google.com/open?id=1BM9o5wtju2v6-DuuhGHL8YFKJleCFq5c)**
 
 
 ## GUIsearch_results
+
+We build a vector space of GUI designs by converting all GUI in the training set into the vectors. Then We randomly select 10 GUIs from 10 apps from our testing dataset, and convert them into vector by our trained model as the queries. For each query, we retrieve the top 10 GUIs whose vectors are most closed to that of query GUI.
+
 
 
 
