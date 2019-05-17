@@ -66,9 +66,14 @@ T-SNE is used to project the high-dimension embedding to 2-dimension vector for 
 
 ## Clustering Overall Performance
 
+To check the quality of GUI embedding with 5 metrics(Homogeneity, Completeness, V-measure, Adjusted Rand Index, and Adjusted Mutual Information), we randomly select apps with the number ranging from 10 to 100. 
+
 ## GUIsearch_results
 
+
+
 ## GUI_Style_Consistency_Detection
+
 
 
 
